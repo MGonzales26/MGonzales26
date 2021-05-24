@@ -1,4 +1,4 @@
-[![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGonzales26&hide=stars)]
+![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGonzales26&hide=stars)
 
 ### Hi there 👋
 
